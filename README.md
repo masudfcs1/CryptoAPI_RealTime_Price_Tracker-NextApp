@@ -6,6 +6,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 Live Demo->https://crypto-api-real-time-price-tracker-next-liqqu1w0g-masudfcs1.vercel.app
 
 
+https://github.com/masudfcs1/CryptoAPI_RealTime_Price_Tracker-NextApp/assets/57311382/0c42e6ce-e5de-4d20-8e94-6eae0a77c963
+
 First, run the development server:
 Creating a real-time crypto price tracker with Next.js, TypeScript, and a live crypto API involves initializing the project, installing dependencies like Axios, and creating utility files for API calls and WebSocket connections. The React component, designed to display live crypto prices, fetches initial data and subscribes to real-time updates via WebSocket. Integration into the main page completes the setup. This structured approach ensures a modular and maintainable architecture for your real-time crypto price tracker web application, providing a solid foundation for future enhancements.
 ```bash
